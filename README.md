@@ -22,7 +22,14 @@ A aplicação segue o padrão **MVC (Model-View-Controller)** e inclui:
 - **Upload de Ficheiros:** Sistema para armazenamento de evidências (ex: imagens de bugs).
 - **Agendamento:** Execução de tarefas programadas via Spring Scheduling.
 
+
+## ➡️ Créditos
+
+Este projeto foi desenvolvido como trabalho final da disciplina Desenvolvimento de Software para Web 1, ministrada pelo Prof. Dr. Andre Takeshi Endo no Departamento de Computação da UFSCar em 2025.
+
+
 ## 🚀 Como Executar
+
 
 ### Pré-requisitos
 - JDK 17
